@@ -41,16 +41,14 @@ You will need the following tools installed on your machine:
 ### Installation
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   ```
+   git clone https://github.com/AlvinMusonye/html002.git
 ---
 ## Usage
 To use this project, open the `index.html` file in your web browser. You can also deploy it to a web server to make it accessible online.
 ---
 ## Screenshots
 Include screenshots of your project here. For example:
-![Screenshot 1](path/to/screenshot1.png)  
-![Screenshot 2](path/to/screenshot2.png)
+<img src="assets/image 1.png">
 ---
 ## Contributing
 Contributions are welcome! Please follow these steps to contribute:
